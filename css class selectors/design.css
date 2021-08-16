@@ -1,0 +1,17 @@
+.center{
+font-size:35px;
+text-align:center;
+background:lightblue;
+color:purple;
+text-decoration:underline;
+border:8px solid yellow;
+}
+
+body{
+background:orange;
+}
+
+.non_center{
+font-size:30px;
+color:darkred;
+}
