@@ -1,0 +1,23 @@
+h1,p{
+color:darkred;
+font-size:38px;
+border:8px solid orange;
+text-align:center;
+}
+
+h1.high{
+color:purple;
+font-size:42px;
+text-decoration:underline;
+}
+
+b.bold{
+background:lime;
+font-size:25px;
+color:darkblue;
+}
+
+body{
+color:white;
+background:rgb(60,60,60);
+}
