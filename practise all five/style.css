@@ -1,0 +1,17 @@
+body{
+background:black;
+color:white;
+font-size:38px;
+}
+
+#bet{
+color:darkred;
+background:lightblue;
+font-size:40px;
+}
+
+#list{
+font-size:40px;
+color:purple;
+background:lightgreen;
+}
