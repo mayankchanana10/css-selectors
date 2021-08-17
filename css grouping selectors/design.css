@@ -1,0 +1,19 @@
+body{
+background:hotpink;
+}
+
+h1,p{
+color:purple;
+text-align:center;
+font-size:40px;
+}
+
+span,b{
+color:darkred;
+font-size:32px;
+}
+img{
+height:600px;
+width:700px;
+border:8px dashed darkgreen;
+}
