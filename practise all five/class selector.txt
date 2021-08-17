@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<style>
+.big{
+text-align:center;
+color:darkblue;
+font-size:40px;
+}
+
+.red{
+font-weight:bold;
+font-size:32px;
+color:darkred;
+}
+
+body{
+color:purple;
+background:lightblue;
+font-size:28px;
+}
+</style>
+</head>
+<body>
+<h1 class="big">America's President</h1>
+<h1 class="big" style="text-align:left">Brack Obama</li>
+<p>Brack Obama is the first indo-african person to be president of america and he is the one who independently serves the nation</p>
+<h1 class="big" style="text-align:left">The Trump</h1>
+<p>The Crudest of all times,The maddest of all times for the nation and the best friend forever for our nation's Prime Minister Mr Narendra Modi.He also deserves the best but his cruel policies bad for India</p>
+<h1 class="big" style="text-align:center">Joe Biden</h1>
+<p class="red">
+Joe Biden I evenly don't know about it But his character is very good for india and other countries</p>
